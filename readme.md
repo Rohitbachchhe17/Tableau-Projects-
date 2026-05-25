@@ -1,7 +1,7 @@
-Tableau Projects icons8-tableau-software-48
+# Tableau Projects 
 This repository contains Tableau dashboard, visualization, and data analysis projects I have created.
 
-Analyzing Employee Trends
+# Analyzing Employee Trends
 [Analyzing Employee Trends.twbx](Analyzing Employee Trends Dashboard.png)
 <img width="1410" height="689" alt="image" src="https://github.com/user-attachments/assets/f660f629-584d-4e0f-a8a1-9099097b16b7" />
 
@@ -25,7 +25,7 @@ Compensation and performance analysis
 HR KPIs and metrics
 Tableau Dashboard
 
-Exploring Trends in the Automotive Industry
+# Exploring Trends in the Automotive Industry
 <img width="1410" height="689" alt="image" src="https://github.com/user-attachments/assets/a86cbf51-eb6c-4cf1-9d41-1cc3e5e994e2" />
 
 
@@ -48,10 +48,8 @@ Correlation analysis between pricing factors
 Forecasting of future pricing based on trends
 Tableau Dashboard
 
-CallCenter Data Analysis
+# CallCenter Data Analysis
 <img width="1410" height="689" alt="image" src="https://github.com/user-attachments/assets/0ab5321e-e365-4b83-bcbc-38d09be20604" />
-
-
 
 Project Description
 This project involved creating an interactive Tableau dashboard to visualize and analyze call center data. The key goals were to:
